@@ -1,0 +1,432 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-fracture---primary.py
+inputModule3:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-metatarsalgia---primary.py
+inputModule4:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults---primary.py
+inputModule5:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-sacroiliac---primary.py
+inputModule6:
+  class: File
+  path: python/arthropathy-musculoskeletal-paininjury-in-adults---primary.py
+inputModule7:
+  class: File
+  path: python/pain---primary.py
+inputModule8:
+  class: File
+  path: python/lateral-musculoskeletal-paininjury-in-adults---primary.py
+inputModule9:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-backache---primary.py
+inputModule10:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-carpal---primary.py
+inputModule11:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-sacroiliitis---primary.py
+inputModule12:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-femur---primary.py
+inputModule13:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-contusion---primary.py
+inputModule14:
+  class: File
+  path: python/navicular-musculoskeletal-paininjury-in-adults---primary.py
+inputModule15:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-vertebra---primary.py
+inputModule16:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-thumb---primary.py
+inputModule17:
+  class: File
+  path: python/cervical-musculoskeletal-paininjury-in-adults---primary.py
+inputModule18:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-phalanx---primary.py
+inputModule19:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-dupuytrens---primary.py
+inputModule20:
+  class: File
+  path: python/stiff-musculoskeletal-paininjury-in-adults---primary.py
+inputModule21:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-thigh---primary.py
+inputModule22:
+  class: File
+  path: python/patellofemoral-musculoskeletal-paininjury-in-adults---primary.py
+inputModule23:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-wrist---primary.py
+inputModule24:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-lumbar---primary.py
+inputModule25:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-malleolus---primary.py
+inputModule26:
+  class: File
+  path: python/acromioclavicular-musculoskeletal-paininjury-in-adults---primary.py
+inputModule27:
+  class: File
+  path: python/proximal-musculoskeletal-paininjury-in-adults---primary.py
+inputModule28:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-closed---primary.py
+inputModule29:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-torticolli---primary.py
+inputModule30:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-arthritis---primary.py
+inputModule31:
+  class: File
+  path: python/polyarthropathy-musculoskeletal-paininjury-in-adults---primary.py
+inputModule32:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-calcaneu---primary.py
+inputModule33:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-weber---primary.py
+inputModule34:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-bursitis---primary.py
+inputModule35:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-joint---primary.py
+inputModule36:
+  class: File
+  path: python/myelopathy-musculoskeletal-paininjury-in-adults---primary.py
+inputModule37:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-walking---primary.py
+inputModule38:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-tendon---primary.py
+inputModule39:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-muscle---primary.py
+inputModule40:
+  class: File
+  path: python/repetitive-musculoskeletal-paininjury-in-adults---primary.py
+inputModule41:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-fibula---primary.py
+inputModule42:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-dislocation---primary.py
+inputModule43:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-scoliosis---primary.py
+inputModule44:
+  class: File
+  path: python/nontraumatic-musculoskeletal-paininjury-in-adults---primary.py
+inputModule45:
+  class: File
+  path: python/distal-musculoskeletal-paininjury-in-adults---primary.py
+inputModule46:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-synovitis---primary.py
+inputModule47:
+  class: File
+  path: python/subacromial-musculoskeletal-paininjury-in-adults---primary.py
+inputModule48:
+  class: File
+  path: python/synovial-musculoskeletal-paininjury-in-adults---primary.py
+inputModule49:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-tibia---primary.py
+inputModule50:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-pulled---primary.py
+inputModule51:
+  class: File
+  path: python/thoracic-musculoskeletal-paininjury-in-adults---primary.py
+inputModule52:
+  class: File
+  path: python/musculoskeletal---primary.py
+inputModule53:
+  class: File
+  path: python/pubic-musculoskeletal-paininjury-in-adults---primary.py
+inputModule54:
+  class: File
+  path: python/radial-musculoskeletal-paininjury-in-adults---primary.py
+inputModule55:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-spondylosis---primary.py
+inputModule56:
+  class: File
+  path: python/swollen-musculoskeletal-paininjury-in-adults---primary.py
+inputModule57:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-ganglion---primary.py
+inputModule58:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-subluxation---primary.py
+inputModule59:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-ankle---primary.py
+inputModule60:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-forearm---primary.py
+inputModule61:
+  class: File
+  path: python/meniscal-musculoskeletal-paininjury-in-adults---primary.py
+inputModule62:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-hallux---primary.py
+inputModule63:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-region---primary.py
+inputModule64:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-humerus---primary.py
+inputModule65:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-facet---primary.py
+inputModule66:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-acquired---primary.py
+inputModule67:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-rotator---primary.py
+inputModule68:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-olecranon---primary.py
+inputModule69:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-osteophyte---primary.py
+inputModule70:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-patella---primary.py
+inputModule71:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-thickness---primary.py
+inputModule72:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-sciatica---primary.py
+inputModule73:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-bicep---primary.py
+inputModule74:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-clavicle---primary.py
+inputModule75:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-spondylolisthesis---primary.py
+inputModule76:
+  class: File
+  path: python/bimalleolar-musculoskeletal-paininjury-in-adults---primary.py
+inputModule77:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-system---primary.py
+inputModule78:
+  class: File
+  path: python/metatarsophalangeal-musculoskeletal-paininjury-in-adults---primary.py
+inputModule79:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-wedge---primary.py
+inputModule80:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-piriformis---primary.py
+inputModule81:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-finger---primary.py
+inputModule82:
+  class: File
+  path: python/acetabular-musculoskeletal-paininjury-in-adults---primary.py
+inputModule83:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-shoulder---primary.py
+inputModule84:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-greenstick---primary.py
+inputModule85:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-ligament---primary.py
+inputModule86:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-radius---primary.py
+inputModule87:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-epicondylitis---primary.py
+inputModule88:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-stenosis---primary.py
+inputModule89:
+  class: File
+  path: python/upper-musculoskeletal-paininjury-in-adults---primary.py
+inputModule90:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-achille---primary.py
+inputModule91:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-degeneration---primary.py
+inputModule92:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-movement---primary.py
+inputModule93:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-cramp---primary.py
+inputModule94:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-elbow---primary.py
+inputModule95:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-hypermobility---primary.py
+inputModule96:
+  class: File
+  path: python/calcific-musculoskeletal-paininjury-in-adults---primary.py
+inputModule97:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-capsulitis---primary.py
+inputModule98:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-prolapsed---primary.py
+inputModule99:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-pelvi---primary.py
+inputModule100:
+  class: File
+  path: python/multiple-musculoskeletal-paininjury-in-adults---primary.py
+inputModule101:
+  class: File
+  path: python/radiculopathy-musculoskeletal-paininjury-in-adults---primary.py
+inputModule102:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-extremity---primary.py
+inputModule103:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-baker---primary.py
+inputModule104:
+  class: File
+  path: python/lower-musculoskeletal-paininjury-in-adults---primary.py
+inputModule105:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-salterharris---primary.py
+inputModule106:
+  class: File
+  path: python/chronic-musculoskeletal-paininjury-in-adults---primary.py
+inputModule107:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-anterior---primary.py
+inputModule108:
+  class: File
+  path: python/enthesopathy-musculoskeletal-paininjury-in-adults---primary.py
+inputModule109:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-suspected---primary.py
+inputModule110:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-posterior---primary.py
+inputModule111:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-tissue---primary.py
+inputModule112:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-rhabdomyolysis---primary.py
+inputModule113:
+  class: File
+  path: python/recurrent-musculoskeletal-paininjury-in-adults---primary.py
+inputModule114:
+  class: File
+  path: python/styloid-musculoskeletal-paininjury-in-adults---primary.py
+inputModule115:
+  class: File
+  path: python/great-musculoskeletal-paininjury-in-adults---primary.py
+inputModule116:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-rupture---primary.py
+inputModule117:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-pubis---primary.py
+inputModule118:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-foot---primary.py
+inputModule119:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-extensor---primary.py
+inputModule120:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-planus---primary.py
+inputModule121:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-generalised---primary.py
+inputModule122:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-meniscu---primary.py
+inputModule123:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-unspecified---primary.py
+inputModule124:
+  class: File
+  path: python/injury---primary.py
+inputModule125:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-spasm---primary.py
+inputModule126:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-cruciate---primary.py
+inputModule127:
+  class: File
+  path: python/lumbosacral-musculoskeletal-paininjury-in-adults---primary.py
+inputModule128:
+  class: File
+  path: python/trochanteric-musculoskeletal-paininjury-in-adults---primary.py
+inputModule129:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-arthralgia---primary.py
+inputModule130:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-sprain---primary.py
+inputModule131:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-exostosis---primary.py
+inputModule132:
+  class: File
+  path: python/partial-musculoskeletal-paininjury-in-adults---primary.py
+inputModule133:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-fibromyalgia---primary.py
+inputModule134:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-tendinitis---primary.py
+inputModule135:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-supraspinatus---primary.py
+inputModule136:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-abdomen---primary.py
+inputModule137:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-leg---primary.py
+inputModule138:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-hand---primary.py
+inputModule139:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-knee---primary.py
+inputModule140:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-trunk---primary.py
+inputModule141:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-toe---primary.py
+inputModule142:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-spine---primary.py
+inputModule143:
+  class: File
+  path: python/musculoskeletal-paininjury-in-adults-chest---primary.py
+inputModule144:
+  class: File
+  path: python/output-cases.py
